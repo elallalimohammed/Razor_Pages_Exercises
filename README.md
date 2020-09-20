@@ -1,1 +1,1 @@
-# Razor_Pages_ExercisesAnd Tutorial document
+# Razor_Pages_Exercises And Tutorial document
